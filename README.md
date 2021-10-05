@@ -1,1 +1,1 @@
-# Mohon maaf sebelumnya pak, untuk file source codenya nika saya upload di google drive nika pak dikarenakan untuk file source codenya terlalu besar dan tidak bisa saya upload di github pak, saya mohon maaf pak
+# Mohon maaf sebelumnya pak, untuk file source codenya nika saya upload di google drive nika pak dikarenakan untuk file source codenya terlalu besar dan tidak bisa saya upload di github pak, saya mohon maaf pak.
